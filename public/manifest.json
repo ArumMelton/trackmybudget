@@ -55,6 +55,7 @@
     "display": "standalone",
     "start_url": "/",
     "description": "A budget tracker application where users are able to add expenses and deposits to their budget with or without a connection.",
-    "background_color": "#20556b",
+    "background":"-webkit-linear-gradient(to right, #FFFDE4, "
+,
     "theme_color": "#ffffff"
 }
